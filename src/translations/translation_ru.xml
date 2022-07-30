@@ -80,7 +80,7 @@
 	<text name="toolTip_productionInspector_ProdOutputMode"    text="Если включено, показывается режим вывода (по умолчанию: стрелка вверх - продажа, стрелка вниз - хранение, стрелка вправо - распространение)" />
 
 	<text name="setting_productionInspector_TextSize"          text="Размер шрифта" />
-	<text name="toolTip_productionInspector_TextSize"          text="Размер шрифта для отображения в относительных пикселях" />
+	<text name="toolTip_productionInspector_TextSize"          text="Размер шрифта для отображения, в относительных пикселях" />
 	<text name="setting_productionInspector_TextBold"          text="Жирный шрифт" />
 	<text name="toolTip_productionInspector_TextBold"          text="Если включено, будет использоваться жирный шрифт для всего дисплея" />
 
